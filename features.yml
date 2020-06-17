@@ -1,0 +1,23 @@
+Account_opening: ['accounts', 'accountSuccess', 'account-profile', 'Registration', 'register', 'af_complete_registration', 'confirmAccountOpening', 'registration', 'accountsuccess', 'signup/', 'signup', 'SIGNUP', 'confirmaccountopening']
+
+Bank_App_installs_download : ['af_app_opened', 'af_login', 'install']
+
+Account_funding: ['bank-statement', 'deposit to bank', 'deposit to bank account', 'DEPOSIT']
+
+Account_txs: ['justpaga.me confirmed', 'withdraw money', 'send money', '{transaction_type', 'loan-confirmation', 'af_purchase', 'request money', 'pay bill', 'paymentsuccess', 'loan', 'pay-to-play', 'setup justpaga.me', 'loan-success', 'af_subscribe']
+
+num_features : ['spend_total', 'spend_data', 'spend_vas', 'spend_voice', 'age']
+
+cat_features : ['gender', 'customer_value', 'location_state', 'device_type']
+
+low_cat : ['gender', 'customer_value', 'device_type']
+
+target : ['event_type']
+
+not_urgent : ['last_recharge_time']
+
+time : ['captured_time']
+
+input_col : ['msisdn', 'spend_total', 'spend_data', 'spend_vas', 'spend_voice', 'age', 'gender', 'customer_value', 'location_state', 'device_type']
+
+ID : ['msisdn']
