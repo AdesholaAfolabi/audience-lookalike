@@ -50,8 +50,8 @@ class FeatureEngineering(Attributes):
         
         """
         
-        Function creates a sparse matrix of the categorical 
-        variables contained in the dataset
+        Function creates a list of the categorical 
+        variables with high dimensionality contained in the dataset
     
         """
         

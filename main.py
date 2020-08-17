@@ -1,5 +1,5 @@
-from scoring import score_users
 from load_attributes import Attributes
+from scoring import score_users
 import os
 import s3fs, pandas as pd,os
 fs = s3fs.S3FileSystem()
