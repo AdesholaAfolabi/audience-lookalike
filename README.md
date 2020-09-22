@@ -1,5 +1,5 @@
 # audience-lookalike
-This README documents the steps that are necessary to get the lookalike application up and running.
+This README documents the steps that are necessary to get the lookalike application up and running. The lookalike application is an unsupervised machine learning  algorithm that helps to identify audiences that are similar to a seed audience (usually the replica you want to create) for digital campaign purposes.
 
 ### What is this repository for? ###
 
